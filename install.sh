@@ -1,4 +1,4 @@
-git clone https://github.com/littlemooon/dotfiles.git ~/a/dotfiles
+git clone https://github.com/ivanperez/dotfiles.git ~/a/dotfiles
 cd ~/a/dotfiles
 bash ./install_osx.sh
 bash ./install_zsh.sh
