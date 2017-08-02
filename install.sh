@@ -1,3 +1,5 @@
+git clone https://github.com/littlemooon/dotfiles.git ~/a/dotfiles
+cd ~/a/dotfiles
 bash ./install_osx.sh
 bash ./install_zsh.sh
 bash ./install_node.sh
